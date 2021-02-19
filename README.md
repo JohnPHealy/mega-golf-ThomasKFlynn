@@ -1,1 +1,1 @@
-# Mega-Golf
+# MegaGolf
